@@ -10,19 +10,30 @@ An automated food recognition system offers a solution by leveraging ML and NN t
 
 This project showcases the practical use of object deception models in solving everyday challenges related to health and nutrition. This research could pave the way for more sophisticated health monitoring tools, and AI driven solutions in the food industry, hopefully leading to better health outcomes. 
 
-How to contribute
-  Clone repo
+
+
+HOW TO CONTRIBUTE
+
+
+- CLONE REPO
+
+
+    git clone git@github.com:ConnorPineault/Smart-Food-Detection-and-Calorie-Estimation---Nutritional-Analysis.git
+    cd QMIND2024
+    npm install
+
+
+
+- CREATE YOUR BRANCH
   
-git clone git@github.com:ConnorPineault/Smart-Food-Detection-and-Calorie-Estimation---Nutritional-Analysis.git
-cd QMIND2024
-npm install
-
-  Create your own branch
-git checkout -b <your branches name>
+    git checkout -b <your branches name>
 
 
-  After you have made your changes
+- AFTER YOU MADE YOUR CHANGES
 
-git add .
-git commit -m <a good commit message describing what you did. you can follow this guide https://www.conventionalcommits.org/en/v1.0.0/>
-git push
+
+
+  git add .
+  git commit -m <a good commit message describing what you did. you can follow this guide https://www.conventionalcommits.org/en/v1.0.0/>
+  
+  git push
