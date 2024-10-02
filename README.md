@@ -19,7 +19,9 @@ HOW TO CONTRIBUTE
 
 
     git clone git@github.com:ConnorPineault/Smart-Food-Detection-and-Calorie-Estimation---Nutritional-Analysis.git
+  
     cd QMIND2024
+  
     npm install
 
 
