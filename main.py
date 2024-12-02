@@ -2,9 +2,9 @@ import cv2
 import numpy as np
 from ultralytics import YOLO
 
-model = YOLO('/Users/zacharyferguson/CMPE452/vision.pt')
 
-image_path = '/Users/zacharyferguson/CMPE452/images.jpeg'
+model = YOLO('/Users/connorpineault/Downloads/Smart-Food-Detection-and-Calorie-Estimation---Nutritional-Analysis/models/vision_model.pt')
+image_path = "Smart-Food-Detection-and-Calorie-Estimation---Nutritional-Analysis/images/test.webp" 
 output_path_segmented = 'output_segmented_kmeans.jpg'
 output_path_filled = 'output_filled_segmented_kmeans.jpg'
 
